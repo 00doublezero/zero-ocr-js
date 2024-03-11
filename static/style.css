@@ -1,0 +1,29 @@
+html, body {
+      width: 1680px;
+      font-size: 42px;
+      font-family: "Noto Serif CJK SC", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: <weight>;
+      font-style: normal;
+}
+button{
+    display: inline-block;
+    user-select: none;
+    width: 30px;
+    height: 30px;
+    padding:5px;
+    margin: 15px;
+}
+p {
+    display: inline-block;
+}
+table {
+    border-top: 1px solid darkblue;
+    color: darkblue;
+    font-size: 36px;
+}
+
+td {
+    padding-right: 50px;
+}
+
